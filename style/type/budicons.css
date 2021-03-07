@@ -3,7 +3,7 @@
 @font-face {
   font-family: "budicon";
   src:url("budicons/budicon.eot");
-  src:url("budicons/budicon.eot?#iefix") format("embedded-opentype"),
+  src:url("budicons/budicon.eot#iefix") format("embedded-opentype"),
     url("budicons/budicon.woff") format("woff"),
     url("budicons/budicon.ttf") format("truetype"),
     url("budicons/budicon.svg#budicon") format("svg");
